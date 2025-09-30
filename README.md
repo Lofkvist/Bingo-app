@@ -1,11 +1,8 @@
 # Bingo-app
 
-An application where users proceed by completing tasks in real life and marking them as 'Done' in the app.
-This is my first full stack web application, which uses the MERN tech stack, meaning MongoDB, Express.js, React.js and Node.js.
-The intention was to challenge myself, and to have a website which could be used by my family. A simple authentication system is
-implemented using JSON Web Tokens. It's main purpose was to act as a challenge for be, and will never be deployed, partly because
-the application lacks security must-haves such as encrypted password storage. The UI features the bare necessities for the application
-to run
+This is my first full-stack web application, where users complete tasks in real life and then mark them as Done in the app. It is built with the MERN stack—MongoDB, Express.js, React.js, and Node.js.
+The project was primarily intended as a personal challenge and as a tool for my family. A simple authentication system was implemented using JSON Web Tokens. However, the application will not be deployed, as it lacks essential security features such as encrypted password storage.
+The UI includes only the basic functionality necessary for the application to run.
 
 Screenshots:
 
